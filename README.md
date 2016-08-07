@@ -2,7 +2,7 @@
 
 Project is created in [**SBT**](http://www.scala-sbt.org/).
 
-In this project I'm trying to demonstrate the supervision stratergies and monitoring/deathwatch. To know more please visit the [**knoldus blog**](http://www.blog.knoldus.com) where I explained about the basic of supervision and monitoring.
+In this project I'm trying to demonstrate the supervision stratergies and monitoring/deathwatch. To know more please visit the [**knoldus blog**](https://blog.knoldus.com/2016/08/07/supervision-and-monitoring-in-akka/) for an overview of supervision and monitoring.
 
 ### Clone and run this application
 
